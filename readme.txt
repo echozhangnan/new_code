@@ -4,5 +4,6 @@ Git has a mutable index called stage
 Git tracks changes of files
 test the funtions for git
 what do you do
+
 happy to learn it
 what are you doing
